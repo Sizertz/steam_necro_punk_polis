@@ -81,6 +81,6 @@ Necropole/DerivedDataCache/*
 # Custom pour Necropole
 ###########################################
 # Ignorer les fichiers trop gros
-Necropole/Content/StarterContent/*
-Assets/
-Textures/
+Necropole/Content/*
+Assets/*
+Textures/*
